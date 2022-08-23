@@ -1,2 +1,2 @@
 # WheatherAPI
-This is WheatherAPI project
+功能簡介 串接具有key參數的天氣API使用方式透過在url內輸入經緯度來定位並顯示該地目前之天氣狀況與溫度參數
